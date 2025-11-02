@@ -9,9 +9,7 @@ The emoticons of Baidu Tieba have long been considered a classic representation 
 All series of emoticons collected from [Baidu Tieba](https://tieba.baidu.com/index.html). Feel free to use them if needed.
 
 ## Download
-
-If you want to use the emoticons, you can download the compressed file in ***emotion*** folder.<br>
-Additionally, I have also uploaded the image URLs (in JSON and TXT formats) and the source code.<br>
+[OneDrive](https://ndusbpos-my.sharepoint.com/:f:/g/personal/sicheng_zhong_ndus_edu/Eo9TIScAJ8dOk_ewKHPmjp4B6OqU2MKwHXT8BDZAxIykTw?e=dXRK6U)<br>
 
 ## Using
 
