@@ -1,14 +1,13 @@
 import inspect
 import os
+from getTiebaEmotion import TiebaEmotion
 
-from getEmotion import TiebaEmotion
 
-save_dir = './emotion/'  # 保存路径
+def get_tiebe_emoji():
+    save_dir = './emotion/Tieba'  # 保存路径
 
-if __name__ == "__main__":
     # 判断保存路径是否已经创建
-    if not os.path.exists(save_dir):
-        os.mkdir(save_dir)
+    os.makedirs(save_dir, exist_ok=True)
 
     tb = TiebaEmotion()
     # get all information(method name, variable name) of a class
@@ -22,3 +21,7 @@ if __name__ == "__main__":
     for mathod_name in instance_method:
         method = getattr(tb, mathod_name)
         method(save_dir)
+
+
+if __name__ == "__main__":
+    get_tiebe_emoji()

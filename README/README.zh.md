@@ -1,29 +1,22 @@
 # Tieba-Emoji
 
-[中文版](./README/README.zh.md)<br>
-EMOJI collections repo<br/>
-<s>The emoticons of Baidu Tieba have long been considered a classic representation of an entire generation. Emotions like Funny are used by many perple, even outside Tieba. The project collects and  acquires all emotions in Tieba Web Version.</s>
-<br>
-This is the repo to collect all emotions in different social media. Free feel to contribute.
-
-![Display](res/emoji.jpeg)
+表情包汇总<br/>
+![Display](../res/emoji.jpeg)
 
 
 ## Getting Started
-All emoji is in Google Drive
 
+请前往Google Drive下载表情包<br>
 - Tieba(貼吧)<br>
     [Google Drive](https://drive.google.com/file/d/1lWohq13xa3OrWQ2vLBrooWtLqyLRjPFm/view?usp=sharing)
 - BiLiBiLi<br>
     [Google Drive](https://drive.google.com/file/d/13SZgpIIJ1q4iznHJsJI1pt9EiXIeKzZr/view?usp=sharing)
 
 
-## EMOJI Detail
+## 表情包详解
+### 贴吧
 
-### Tieba
-The below table is the reference to each group. The emoji image is in ***emotion/<emoji_type>/<file_name>.png***
-
-| Emotion Type | the directory  |
+| 表情包类型 | 目录  |
 |:------------:|:--------------------:|
 | 默认           | emotion/regular      |
 | 熊孩子          | emotion/bearchildren |
@@ -45,8 +38,8 @@ The below table is the reference to each group. The emoji image is in ***emotion
 | 绿豆蛙          | emotion/ldw          |
 | 十周年          | emotion/10th         |
 
-### Bilibili
-Emoji in Bilibili divides into 4 group. 
+### B站
+b站 Emoji 目录划分
 > tv_小电视<br>
 > 小黄脸<br>
 > 热词系列一<br>
@@ -54,6 +47,7 @@ Emoji in Bilibili divides into 4 group.
 
 
 ## Notice
-1. The above emoticons are for personal use only. Please do not use them for commercial purposes.
-2. If you want to use the emoticons, please download them yourself.
+
+1. 以上表情包仅供个人用途<br>
+2. 使用表情包请自便<br>
 

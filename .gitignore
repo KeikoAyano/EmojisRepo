@@ -1,4 +1,5 @@
-.idea
+.idea/
 __pycache__
-./emotion/*/
-!emotion/*.zip
+emotion/*
+.vscode/
+.venv/
