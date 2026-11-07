@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/github/license/KeikoAyano/EmojisRepo?color=40E6FF)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/KeikoAyano/EmojisRepo/?label=size&color=40E6FF)
-[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/EmojisRepo/total?color=40E6FF)](https://github.com/mirbyte/IconPull/releases/latest)
 
 
 [中文版](./README/README.zh.md)<br>
