@@ -1,5 +1,10 @@
 # Tieba-Emoji
 
+[![License](https://img.shields.io/github/license/KeikoAyano/EmojisRepo?color=40E6FF)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
+![Size](https://img.shields.io/github/repo-size/KeikoAyano/EmojisRepo/?label=size&color=40E6FF)
+[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/EmojisRepo/total?color=40E6FF)](https://github.com/mirbyte/IconPull/releases/latest)
+
+
 [中文版](./README/README.zh.md)<br>
 EMOJI collections repo<br/>
 <s>The emoticons of Baidu Tieba have long been considered a classic representation of an entire generation. Emotions like Funny are used by many perple, even outside Tieba. The project collects and  acquires all emotions in Tieba Web Version.</s>
