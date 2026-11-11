@@ -1,7 +1,7 @@
 # Tieba-Emoji
 
-[![License](https://img.shields.io/github/license/KeikoAyano/EmojisRepo?color=40E6FF)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
-![Size](https://img.shields.io/github/repo-size/KeikoAyano/EmojisRepo/?label=size&color=40E6FF)
+![GitHub repo size](https://img.shields.io/github/repo-size/KeikoAyano/EmojisRepo?style=plastic)
+
 
 
 [中文版](./README/README.zh.md)<br>
